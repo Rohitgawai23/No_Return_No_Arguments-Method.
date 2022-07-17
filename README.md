@@ -1,0 +1,1 @@
+# No_Return_No_Arguments-Method.
